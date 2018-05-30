@@ -1,8 +1,5 @@
-# Flex Web Dev Bootcamp Additional Resouces
-This Github Page is meant to augment the curriculum of the Flex Web Dev Bootcamp. Enjoy!
----
 
-## Table of contents
+# Table of contents
 - Web Dev Fundamentals
   - HTML and CSS
     - [Colors and Images](https://alannarisse.github.io/docs/colorsandimages)
@@ -22,13 +19,13 @@ This Github Page is meant to augment the curriculum of the Flex Web Dev Bootcamp
 - [Search YouTube Project](https://alannarisse.github.io/docs/searchyoutube)
 - [Node](https://alannarisse.github.io/docs/node)
 
-## Development Tools
+# Development Tools
 - [Boostnote - save code snippets on deskptop or mobile.](https://boostnote.io)
 - [Launch sublime from the command line](https://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/)
 - [another launch sublime from the command line](https://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal)
 - [Surge.sh - deploy static apps from command line](https://surge.sh)
 
-### Useful Links
+## Useful Links
 -[What is SSH? Video Tutorial](https://www.youtube.com/watch?v=z7jVOenqFYk&list=PLe6EXFvnTV7-_41SpakZoTIYCgX4aMTdU)
 - [How does dns work](http://dnsmadeeasy.com/about/what-is-dns/)
 - [WebJeda - Add google forms to an website](https://blog.webjeda.com/google-form-customize/#publish-it-on-any-website)

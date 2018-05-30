@@ -1,7 +1,7 @@
 # Javascript
 
-## Unit 2 - Javascript
-- [My Javascript basics cheat sheet](https://alannarisse.github.io/frontend_resources/javascript_basic_code)
+## Javascript
+- [My Javascript basics cheat sheet](https://alannarisse.github.io/docs/javascript_basic_code)
 - [Eloquent Javascript](http://eloquentjavascript.net/) great free online book
 - [Video: Let VS var on Coding Train](https://www.youtube.com/watch?v=q8SHaDQdul0)
 - [Video: Fun Fun FUnctions: Arrow Functions](https://www.youtube.com/watch?v=6sQDTgOqh-I)

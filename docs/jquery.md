@@ -1,5 +1,5 @@
 
-# Unit 3 JQuery
+# JQuery
 
 ### General JQuery
 
