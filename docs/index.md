@@ -5,22 +5,22 @@ This Github Page is meant to augment the curriculum of the Flex Web Dev Bootcamp
 ## Table of contents
 - Web Dev Fundamentals
   - HTML and CSS
-    - [Colors and Images](https://alannarisse.github.io/frontend_resources/colorsandimages)
-    - [html and css](https://alannarisse.github.io/frontend_resources/htmlandcss)
-  - [Javascript](https://alannarisse.github.io/frontend_resources/javascript)
+    - [Colors and Images](https://alannarisse.github.io/docs/colorsandimages)
+    - [html and css](https://alannarisse.github.io/docs/htmlandcss)
+  - [Javascript](https://alannarisse.github.io/docs/javascript)
   - JQuery
-    - [JQuery Resources](https://alannarisse.github.io/frontend_resources/jquery)
-    - [Alanna's quiz app mockups](https://github.com/alannarisse/frontend_resources/blob/master/unit03/alannas_quiz_app/mockups/index.html)
+    - [JQuery Resources](https://alannarisse.github.io/docs/jquery)
+    - [Alanna's quiz app mockups](https://github.com/alannarisse/docs/blob/master/unit03/alannas_quiz_app/mockups/index.html)
 - Git and GitHub
-  - [Linux, Git, and Github](https://alannarisse.github.io/frontend_resources/github)
+  - [Linux, Git, and Github](https://alannarisse.github.io/docs/github)
 - More stuff
-  - [On Testing](https://alannarisse.github.io/frontend_resources/testing)
-  - [My Favorite Video Demos and Talks](https://alannarisse.github.io/frontend_resources/demosandtalks)
-  - [Online and local support](https://alannarisse.github.io/frontend_resources/support)
-  - [Vue.js](https://alannarisse.github.io/frontend_resources/vue)
+  - [On Testing](https://alannarisse.github.io/docs/testing)
+  - [My Favorite Video Demos and Talks](https://alannarisse.github.io/docs/demosandtalks)
+  - [Online and local support](https://alannarisse.github.io/docs/support)
+  - [Vue.js](https://alannarisse.github.io/docs/vue)
 
-- [Search YouTube Project](https://alannarisse.github.io/frontend_resources/searchyoutube)
-- [Node](https://alannarisse.github.io/frontend_resources/node)
+- [Search YouTube Project](https://alannarisse.github.io/docs/searchyoutube)
+- [Node](https://alannarisse.github.io/docs/node)
 
 ## Development Tools
 - [Boostnote - save code snippets on deskptop or mobile.](https://boostnote.io)
