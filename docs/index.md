@@ -1,6 +1,6 @@
 
 # Table of contents
-- Web Dev Fundamentals
+- Front End
   - HTML and CSS
     - [Colors and Images](https://alannarisse.github.io/docs/colorsandimages)
     - [html and css](https://alannarisse.github.io/docs/htmlandcss)
