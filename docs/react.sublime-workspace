@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"backface-visibility"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 301.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alanna/Downloads/motorSportsQuiz-master/index.html",
+		"/Users/alanna/Downloads/motorSportsQuiz-master/index.js",
+		"/usr/local/etc/apache2/2.4/httpd.conf",
+		"/usr/local/var/www/htdocs/index.html",
+		"/usr/local/etc/apache2/2.4/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/Users/alanna/Sites/qadium_static_clean/company.html",
+		"/Users/alanna/Sites/qadium_static_clean/terms.html",
+		"/Users/alanna/Sites/qadium_static_clean/privacy.html",
+		"/Users/alanna/Sites/qadium_static_clean/join-us.html",
+		"/Users/alanna/Sites/qadium_static_clean/platform.html",
+		"/Users/alanna/Sites/qadium_static_clean/news-awards.html",
+		"/Users/alanna/Sites/qadium_static_clean/events.html",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-config.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/home.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen-child/front-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/wplocal.sublime-project",
+		"/Users/alanna/Sites/dev.wordpress.com/my_notes.txt",
+		"/Users/alanna/Documents/Verge Docs/akemi/kanani_event_text",
+		"/Users/alanna/Sites/dev.wordpress.com/jklmt_notes/throat/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/style.css",
+		"/Users/alanna/Downloads/markup.html",
+		"/Users/alanna/Desktop/jk_404_static/Page not found – Jolene Kelley LMT.html",
+		"/Users/alanna/Sites/dev.wordpress.com/jklmt_notes/third-eye/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/jklmt_notes/portland-shiatsu-massage/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/wp-responsive-menu/css/wprmenu.css",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/wp-responsive-menu/wp-responsive-menu.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/after update/wp-config.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/after update/check me/wp-config.php",
+		"/Users/alanna/Sites/jolenekelleylmt.com/success_db/wp-config.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/jklmt local backup/pick me/127.0.0.1-local-db_jolenekelleylmt4-21-17.sql",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/rissefolio_plugin/rissefolio_plugin.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/includes/custom-header.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/header.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/header-032511.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/includes/template-tags.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/jklmt311 db backup/jol1106102281707.sql",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/footer.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/footer.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/functions.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/homepage.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-content/themes/jolene/index.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/index.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/Gilbert D)useless_chat.txt",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/website/wp-config.php",
+		"/Users/alanna/Sites/jolenekelleylmt.com/wp-config.php",
+		"/Users/alanna/Sites/ember_essentials/my_ember_notes.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/jklmt_notes/import_errors.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/includes/customizer.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/functions.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/includes/hooks-filters.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/front-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/jk_colorist/404.php",
+		"/Users/alanna/Desktop/Business Blocks.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/rissefolio_plugin/code_fun.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/rissefolio_plugin/plugin_notes.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/my-plugin/rissefolio_plugin.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/plugins/my-plug/my-plugin.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/search.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/readme.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/languages/en.po",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/languages/en.mo",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/wp_bootstrap_navwalker.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/wp-admin/edsbootstrap-admin-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/template-tags.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/jetpack.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/customizer.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/custom-header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/comment-helper.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/inc/class-tgm-plugin-activation.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen/header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/footer.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/customizer/class-customize.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/comments.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/archive.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/404.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/single.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content-video.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content-search.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content-none.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/template-parts/content-audio.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/front-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/loops.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/conditionals_ops.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/style.css",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/arrays.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/associative_arrays.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/test/multi_arrays.php",
+		"/Users/alanna/Desktop/references.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/edsbootstrap/functions.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen-child/functions.php",
+		"/Users/alanna/Documents/Work/clients/Jolene Kelley/jolene kelley.txt",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen-child/style.css",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen-child/template-parts/post/content.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen/template-parts/post/content.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen/inc/template-tags.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen/inc/template-functions.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyseventeen-child/inc/template-tags.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-admin/css/nav-menus-rtl.css",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/components/post/content.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/assets/stylesheets/layout/_posts.scss",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/assets/stylesheets/layout/_layout.scss",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/style.css",
+		"/Users/alanna/Desktop/alan peters.txt",
+		"/Users/alanna/Sites/dev.alannarisse.com/Ex_Files_WP_Underscores/popperscores-master/style.css",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/inc/template-tags.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/index.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/front-page.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/components/footer/site-info.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/assets/js/navigation.js",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/inc/custom-header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/twentyfifteen/functions.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/components/header/header-image.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/components/navigation/navigation-top.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/functions.php",
+		"/Users/alanna/Sites/dev.wordpress.com/app/wp-content/themes/rissefolio/header.php",
+		"/Users/alanna/Sites/dev.wordpress.com/.env",
+		"/Users/alanna/Sites/dev.wordpress.com/.gitignore",
+		"/Users/alanna/Sites/dev.alannarisse.com/wp-content/themes/rissefolio/functions.php",
+		"/Users/alanna/Sites/dev.alannarisse.com/wp-content/themes/rissefolio/inc/custom-header.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
