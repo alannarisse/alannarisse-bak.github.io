@@ -18,7 +18,7 @@
 
 - use the ``$.getJSON();`` [jQuery method](http://api.jquery.com/jquery.getjson/). it takes three parameters jQuery.getJSON( url [, data ] [, success ] )
 
-### My example code can be found here [alanna's thinkful tube code](https://alannarisse.github.io/apis/youtube-search/working-example)
+### My example code can be found here [alanna's youtube search code](https://alannarisse.github.io/apis/youtube-search/working-example)
 
 ## Links for help:  [Code Academy tutorial](https://www.codecademy.com/en/courses/javascript-intermediate-en-757J2/0/1)
 
