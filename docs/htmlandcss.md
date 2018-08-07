@@ -11,6 +11,7 @@
 - [Dive Into HTML5 by Mark Pilgrim](http://diveinto.html5doctor.com/)
 - [Mozilla's html element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Common HTML entities - unicode values](https://www.w3.org/wiki/Common_HTML_entities_used_for_typography)
+ - [Codier front end code challenges](https://codier.io/)
 
 ### Accessibility
 - [wave - test accessibility on your page](http://wave.webaim.org/)
@@ -85,6 +86,9 @@ inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 
 ### CSS Display property: inline VS display: inline-block VS display: block.
+
+### Fun with HTML5 and CSS3
+- [Mathew Lein - sad trombone and more!](https://matthewlein.com/)
 
 - inline element has no line break before or after it, and it tolerates HTML elements next to it.
 

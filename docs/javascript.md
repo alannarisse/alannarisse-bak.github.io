@@ -18,6 +18,7 @@
 - [Default function parameters - moz developer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
 - [A brief history of javascript](https://www.youtube.com/watch?v=3-9fnjzmXWA)
 - [getJSON on sitepoint](https://www.sitepoint.com/ajaxjquery-getjson-simple-example/)
+- [JS Beautifier - prettifies minified js, html, and css](http://jsbeautifier.org/)
 
 ## Practice
 - [Code Wars](https://www.codewars.com)
@@ -31,12 +32,10 @@ undefined means a variable has been declared but has not yet been assigned a val
 Also, undefined and null are two distinct types: undefined is a type itself (undefined) while null is an object.
 Unassigned variables are initialized by JavaScript with a default value of undefined. JavaScript never sets a value to null. That must be done programmatically."
 
+## Working with JSON Data
+- [LearnWebCode: JSON and template literals](https://www.youtube.com/watch?v=DG4obitDvUA&t=335s)
 
 
-
-
-- [my link](http://mylink)
-- 
 
 
 

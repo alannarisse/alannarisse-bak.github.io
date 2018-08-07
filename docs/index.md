@@ -32,3 +32,7 @@
 - [WebConcepts on youtube: whats a rest api?](https://www.youtube.com/watch?v=7YcW25PHnAA)
 
 - [Videos about 0Auth](https://www.youtube.com/channel/UCUlQ5VoIzE_kFbYjzUwHTKA/videos)
+
+
+## Random
+- What does REPL stand for? Read–eval–print loop [wikipedia](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
