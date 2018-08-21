@@ -17,7 +17,15 @@
   - [Vue.js](https://alannarisse.github.io/docs/vue)
 
 - [Search YouTube Project](https://alannarisse.github.io/docs/searchyoutube)
+
+## Node
 - [Node](https://alannarisse.github.io/docs/node)
+
+## APIs
+- [APIs](https://alannarisse.github.io/docs/apis)
+
+## Portfolio
+- [Portfolio inspiration](https://alannarisse.github.io/docs/portfolio)
 
 # Development Tools
 - [Boostnote - save code snippets on deskptop or mobile.](https://boostnote.io)
