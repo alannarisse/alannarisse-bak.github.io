@@ -10,13 +10,7 @@
     - [Alanna's quiz app mockups](https://github.com/alannarisse/docs/blob/master/unit03/alannas_quiz_app/mockups/index.html)
 - Git and GitHub
   - [Linux, Git, and Github](https://alannarisse.github.io/docs/github)
-- More stuff
-  - [On Testing](https://alannarisse.github.io/docs/testing)
-  - [My Favorite Video Demos and Talks](https://alannarisse.github.io/docs/demosandtalks)
-  - [Online and local support](https://alannarisse.github.io/docs/support)
-  - [Vue.js](https://alannarisse.github.io/docs/vue)
-
-- [Search YouTube Project](https://alannarisse.github.io/docs/searchyoutube)
+- MongoDB []()
 
 ## Node
 - [Node](https://alannarisse.github.io/docs/node)
@@ -26,6 +20,15 @@
 
 ## Portfolio
 - [Portfolio inspiration](https://alannarisse.github.io/docs/portfolio)
+
+- More stuff
+  - [On Testing](https://alannarisse.github.io/docs/testing)
+  - [My Favorite Video Demos and Talks](https://alannarisse.github.io/docs/demosandtalks)
+  - [Online and local support](https://alannarisse.github.io/docs/support)
+  - [Vue.js](https://alannarisse.github.io/docs/vue)
+
+- [Search YouTube Project](https://alannarisse.github.io/docs/searchyoutube)
+
 
 # Development Tools
 - [Boostnote - save code snippets on deskptop or mobile.](https://boostnote.io)
