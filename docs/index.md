@@ -8,9 +8,8 @@
   - JQuery
     - [JQuery Resources](https://alannarisse.github.io/docs/jquery)
     - [Alanna's quiz app mockups](https://github.com/alannarisse/docs/blob/master/unit03/alannas_quiz_app/mockups/index.html)
-- Git and GitHub
-  - [Linux, Git, and Github](https://alannarisse.github.io/docs/git)
-- MongoDB []()
+- [Git, GitHub, linux, bash](https://alannarisse.github.io/docs/git)
+- [MongoDB](https://alannarisse.github.io/docs/mongo)
 
 ## Node
 - [Node](https://alannarisse.github.io/docs/node)
