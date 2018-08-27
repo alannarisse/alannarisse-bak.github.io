@@ -9,7 +9,7 @@
     - [JQuery Resources](https://alannarisse.github.io/docs/jquery)
     - [Alanna's quiz app mockups](https://github.com/alannarisse/docs/blob/master/unit03/alannas_quiz_app/mockups/index.html)
 - Git and GitHub
-  - [Linux, Git, and Github](https://alannarisse.github.io/docs/github)
+  - [Linux, Git, and Github](https://alannarisse.github.io/docs/git)
 - MongoDB []()
 
 ## Node
