@@ -13,6 +13,7 @@
 - [Coding Train: Resolving Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 - [A bunch of useful .gitignore templates](https://github.com/github/gitignore)
 - [Oh Shit, Git! - how to 'git' out of trouble](http://ohshitgit.com/)
+ - [My Git Cheat Sheet](https://alannarisse.github.io/docs/cheatsheets/git_cheatsheet.pdf)
 
 
 ### Viewing things
