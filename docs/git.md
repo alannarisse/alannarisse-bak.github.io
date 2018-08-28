@@ -14,6 +14,7 @@
 - [A bunch of useful .gitignore templates](https://github.com/github/gitignore)
 - [Oh Shit, Git! - how to 'git' out of trouble](http://ohshitgit.com/)
  - [My Git Cheat Sheet](https://alannarisse.github.io/docs/cheatsheets/git_cheatsheet.pdf)
+ - [SSH keys and Git video by FromZero](https://www.youtube.com/watch?v=TCcWwUgQe8s)
 
 
 ### Viewing things
