@@ -30,7 +30,10 @@
 
 ### CSS-Grid
 - [Grid by Example - Rachel Andrew](https://gridbyexample.com/)
+- [Wes Bos - CSS Grid.io ](https://cssgrid.io/)
 - [CSS-Grid Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [Smash Magazine Building Production-Ready CSS Grid Layouts Today - Morten Rand-Hendriksen](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+- [Can I use - css-grid](https://caniuse.com/#feat=css-grid)
 
 ### Layouts
 - [parent-child container height issue](http://jsbin.com/wedekavohu/edit?html,css,output)

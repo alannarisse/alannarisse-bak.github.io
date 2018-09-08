@@ -6,7 +6,7 @@
 - [MDN Express/Node intro](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [Net Ninja - Node.js tutorial videos](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [UDemy - Understanding Node.js](https://www.udemy.com/understand-nodejs/)
-
+- [The Definitive node js handbook - freecodecamp](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 ## What is Google Chrome V8?
 
 - [A intro to v8 - developers.google.com](https://developers.google.com/v8/intro)
