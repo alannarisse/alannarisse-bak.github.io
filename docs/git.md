@@ -8,13 +8,13 @@
 
 
 ## Git
+- [My Git Cheat Sheet!](https://alannarisse.github.io/docs/cheatsheets/git_cheatsheet.pdf)
 - [Setting your commit email address](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
 - [common files for .gitignore file](https://gist.github.com/octocat/9257657)
 - [Coding Train: Resolving Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 - [A bunch of useful .gitignore templates](https://github.com/github/gitignore)
 - [Oh Shit, Git! - how to 'git' out of trouble](http://ohshitgit.com/)
- - [My Git Cheat Sheet](https://alannarisse.github.io/docs/cheatsheets/git_cheatsheet.pdf)
- - [SSH keys and Git video by FromZero](https://www.youtube.com/watch?v=TCcWwUgQe8s)
+- [SSH keys and Git video by FromZero](https://www.youtube.com/watch?v=TCcWwUgQe8s)
 
 
 ### Viewing things
