@@ -33,6 +33,8 @@
 - [Wes Bos - CSS Grid.io ](https://cssgrid.io/)
 - [CSS-Grid Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
 - [Smash Magazine Building Production-Ready CSS Grid Layouts Today - Morten Rand-Hendriksen](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+- [CSS Grid class - Scrimba](https://scrimba.com/g/gR8PTE)
+- [Free Code Camp article on css grid](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
 - [Can I use - css-grid](https://caniuse.com/#feat=css-grid)
 
 ### Layouts
