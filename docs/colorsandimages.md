@@ -5,6 +5,8 @@
 - [html color names](http://htmlcolorcodes.com/color-names/)
 - [Color Brewer](http://colorbrewer2.org/)
 - [Adobe color combos tools](https://color.adobe.com)
+- [Paletton](http://paletton.com/)
+- [Picular - avaerages color of images](https://picular.co/)
 
 ## Images
 - [placeholder.com](https://placeholder.com/) placeholder images

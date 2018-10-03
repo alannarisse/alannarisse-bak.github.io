@@ -1,15 +1,17 @@
 # Node
 
-## What is Node?
+## Node.js
 - [what exactly is node? - free code camp on Medium](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
+- [The Definitive guide to node.js - free code camp](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 - [Requiring modules in Node.js: Everything you need to know](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
 - [MDN Express/Node intro](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [Net Ninja - Node.js tutorial videos](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [UDemy - Understanding Node.js](https://www.udemy.com/understand-nodejs/)
 - [ProgrammingKnowledge - Node.js crash course youtube video](https://www.youtube.com/watch?v=q-JVfek1fc0)
+- [The Definitive node js handbook - freecodecamp](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+
 
 ## What is Google Chrome V8?
-
 - [A intro to v8 - developers.google.com](https://developers.google.com/v8/intro)
 
 ## HTTP

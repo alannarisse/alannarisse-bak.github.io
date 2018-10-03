@@ -30,9 +30,17 @@
 
 ### CSS-Grid
 - [Grid by Example - Rachel Andrew](https://gridbyexample.com/)
+- [Wes Bos - CSS Grid.io ](https://cssgrid.io/)
 - [CSS-Grid Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
+<<<<<<< HEAD
 - [Can I use - css-grid](https://caniuse.com/#feat=css-grid)
 - [Rachel Andrew's CSS blog](http://csslayout.news/issues/166?#start)
+=======
+- [Smash Magazine Building Production-Ready CSS Grid Layouts Today - Morten Rand-Hendriksen](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
+- [CSS Grid class - Scrimba](https://scrimba.com/g/gR8PTE)
+- [Free Code Camp article on css grid](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
+- [Can I use - css-grid](https://caniuse.com/#feat=css-grid)
+>>>>>>> ccfb6fe2ad3b640fc7298fc18c41e64e1403ffc4
 
 ### Layouts
 - [parent-child container height issue](http://jsbin.com/wedekavohu/edit?html,css,output)

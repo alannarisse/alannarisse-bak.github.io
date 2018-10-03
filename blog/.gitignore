@@ -1,0 +1,4 @@
+_site
+.sass-cache
+.jekyll-metadata
+my_notes.txt
