@@ -31,6 +31,8 @@
 ### CSS-Grid
 - [Grid by Example - Rachel Andrew](https://gridbyexample.com/)
 - [CSS-Grid Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [Can I use - css-grid](https://caniuse.com/#feat=css-grid)
+- [Rachel Andrew's CSS blog](http://csslayout.news/issues/166?#start)
 
 ### Layouts
 - [parent-child container height issue](http://jsbin.com/wedekavohu/edit?html,css,output)
