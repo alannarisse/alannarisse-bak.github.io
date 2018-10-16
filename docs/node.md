@@ -10,6 +10,8 @@
 - [ProgrammingKnowledge - Node.js crash course youtube video](https://www.youtube.com/watch?v=q-JVfek1fc0)
 - [The Definitive node js handbook - freecodecamp](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
+## Promises
+- [Techsith - Promises Explained](https://www.youtube.com/watch?v=s6SH72uAn3Q&vl=en)
 
 ## What is Google Chrome V8?
 - [A intro to v8 - developers.google.com](https://developers.google.com/v8/intro)

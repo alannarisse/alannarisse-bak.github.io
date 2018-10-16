@@ -15,6 +15,16 @@
 - [A bunch of useful .gitignore templates](https://github.com/github/gitignore)
 - [Oh Shit, Git! - how to 'git' out of trouble](http://ohshitgit.com/)
 - [SSH keys and Git video by FromZero](https://www.youtube.com/watch?v=TCcWwUgQe8s)
+- [Learning git branching](https://learngitbranching.js.org/)
+- [better explained](https://betterexplained.com/articles/aha-moments-when-learning-git/)
+- [git immersion](http://gitimmersion.com/)
+- [katacoda](https://www.katacoda.com/courses/git)
+- [git scm book](https://git-scm.com/book)
+- [try github](https://try.github.io/)
+- [recompiler magazine - hot to teach git](https://recompilermag.com/issues/issue-1/how-to-teach-git/)
+- [article on training your team](https://buttercms.com/blog/cto-guide-to-train-your-team-on-git)
+
+
 
 
 ### Viewing things
