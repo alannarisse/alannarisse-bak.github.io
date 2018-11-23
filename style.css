@@ -1,0 +1,77 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+/* Better box model */
+* { box-sizing: border-box; }
+body {
+	margin:0;
+}
+
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Poppins', sans-serif;}
+body, p, li, div, a {font-family: 'PT Sans', sans-serif;}
+h1 { 
+	font-size: 48px;
+	font-weight: bold;
+	margin-bottom: .5em;
+ }
+p { 
+	font-size: 16px;
+	margin-bottom: 1em;
+	line-height: 1.6em;
+	color: #333;
+}
+ a { color: #333; }
+
+section {
+    height: 150vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: sticky;
+    top: -1px;
+    background-image: url('images/fresh_snow.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section.last {height: 130vh;}
+
+section.last article {
+	margin-top: 0;
+}
+section:nth-child(1) {
+    background-image: url('images/fresh_snow.png');
+}
+section:nth-child(2) {
+    background-image: url('images/grey_wash_wall.png');
+}
+section:nth-child(3) {
+    background-image: url('images/subtle_white_feathers.png');
+    background-repeat: repeat-y;
+}
+section:nth-child(4) {
+    background-image: url('images/mochaGrunge.png');
+}
+article {
+	margin: 0 auto;
+	width: 60%;
+	margin-bottom: 25%;
+}
+
+section:nth-child(even) article h1, section:nth-child(even) article p, section:nth-child(even) article a {
+	color: white;
+}
+
+footer { background-color: #000;
+	position: sticky;
+	height:300px;
+	text-align:center;
+	padding-top: 40px;
+ }
+
+ footer .icon { 
+ 	width: 80px;
+ 	padding: 20px;
+ 	 }

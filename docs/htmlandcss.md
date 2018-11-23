@@ -38,6 +38,8 @@
 - [CSS Grid class - Scrimba](https://scrimba.com/g/gR8PTE)
 - [Free Code Camp article on css grid](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
 - [Morten Rand Hendricksen talk on CSS Grid](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+ - [MDN CSS Grid](https://www.mozilla.org/en-US/developer/css-grid/)
+ - [CSS Tricks complete guide to css grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 ### Layouts

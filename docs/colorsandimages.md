@@ -14,6 +14,9 @@
 - [placekitten](https://placekitten.com/)
 - [UnSplash](https://unsplash.com/) Royality-free photos
 
+## Background Images
+- [Subtle patterns](https://www.toptal.com/designers/subtlepatterns/)
+
 ## Mock-up Tools
 - [Lipsum](https://www.lipsum.com/) a Loreum Ipsom (placholder text) generator
 - [Funny versions of Lipsum](https://www.shopify.com/partners/blog/79940998-15-funny-lorem-ipsum-generators-to-shake-up-your-design-mockups)

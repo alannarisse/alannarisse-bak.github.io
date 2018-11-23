@@ -2,6 +2,7 @@
 
 ## Javascript
 - [My Javascript basics cheat sheet](https://alannarisse.github.io/docs/javascript_basic_code)
+- [LearnWebCode 10 days of javascript](https://www.youtube.com/watch?v=dc-2t26Vuhs&list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 - [Eloquent Javascript](http://eloquentjavascript.net/) great free online book
 - [Video: Let VS var on Coding Train](https://www.youtube.com/watch?v=q8SHaDQdul0)
 - [Video: Fun Fun FUnctions: Arrow Functions](https://www.youtube.com/watch?v=6sQDTgOqh-I)
@@ -36,7 +37,8 @@ Unassigned variables are initialized by JavaScript with a default value of undef
 - [LearnWebCode: JSON and template literals](https://www.youtube.com/watch?v=DG4obitDvUA&t=335s)
 
 
-
+## Explainations of things
+- [array.prototype.filter(Boolean) removes falsy stuff like NaN, "", null and only returns truthy](https://www.freecodecamp.org/forum/t/algorithm-falsy-bouncer-help-with-how-filter-boolean-works/25089/2)
 
 
 
