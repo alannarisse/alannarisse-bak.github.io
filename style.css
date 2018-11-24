@@ -15,6 +15,14 @@ h1 {
 	font-weight: bold;
 	margin-bottom: .5em;
  }
+ h2 {
+ 	margin-bottom: .5em;
+ 	font-size: 32px;
+ }
+ h3 { 
+ 	font-size: 24px;
+ 	margin-bottom: .5em; 
+ }
 p { 
 	font-size: 16px;
 	margin-bottom: 1em;
@@ -54,16 +62,38 @@ section:nth-child(3) {
 section:nth-child(4) {
     background-image: url('images/mochaGrunge.png');
 }
-article {
+section article {
 	margin: 0 auto;
 	width: 60%;
 	margin-bottom: 25%;
 }
 
-section:nth-child(even) article h1, section:nth-child(even) article p, section:nth-child(even) article a {
+section:nth-child(even) article h1, section:nth-child(even) article h2, section:nth-child(even) article p, section:nth-child(even) article a {
 	color: white;
 }
 
+.collapsable div {
+	margin-bottom: 40px;
+}
+
+.collapsable li:before {
+	content: '> ';
+	color: white;
+}
+
+.grid-2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.grid-2  .link-cols {
+	margin-bottom: none;
+}
+
+.useful {
+	width: 60%;
+	margin: 60px auto;
+}
+.useful ul { margin-bottom: 30px; }
 footer { background-color: #000;
 	position: sticky;
 	height:300px;
@@ -71,7 +101,7 @@ footer { background-color: #000;
 	padding-top: 40px;
  }
 
- footer .icon { 
+footer .icon { 
  	width: 80px;
  	padding: 20px;
  	 }
