@@ -122,5 +122,5 @@ footer .icon {
 
 @media(max-width: 768px){
 	section article { width: 90%; }
-	.useful { width: 90%; }
+	.useful main { width: 90%; }
 }
