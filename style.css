@@ -2,14 +2,14 @@
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 
 /* Better box model */
-* { box-sizing: border-box; }
+* { box-sizing: border-box;}
 body {
 	margin:0;
 }
 
 
 h1, h2, h3, h4, h5, h6 { font-family: 'Poppins', sans-serif;}
-body, p, li, div, a {font-family: 'PT Sans', sans-serif;}
+body, p, li, div, a {font-family: 'PT Sans', sans-serif;font-size: 18px; }
 h1 { 
 	font-size: 48px;
 	font-weight: bold;
@@ -68,7 +68,7 @@ section article {
 	margin-bottom: 25%;
 }
 
-section:nth-child(even) article h1, section:nth-child(even) article h2, section:nth-child(even) article p, section:nth-child(even) article a {
+section:nth-child(even) article h1, section:nth-child(even) article h2, section:nth-child(even) article p, section:nth-child(even) article a, section:nth-child(even) article div, section:nth-child(even) article p {
 	color: white;
 }
 
@@ -89,11 +89,25 @@ section:nth-child(even) article h1, section:nth-child(even) article h2, section:
 	margin-bottom: none;
 }
 
-.useful {
-	width: 60%;
+.useful {	
+	background-image: url('images/cheap_diagonal_fabric.png');
+}
+.useful main {
+	width: 70%;
 	margin: 60px auto;
+	background-color: #eee;
+	border-radius: 12px;
+	padding: 70px;
+-webkit-box-shadow: 3px 6px 30px -5px rgba(102,102,102,1);
+-moz-box-shadow: 3px 6px 30px -5px rgba(102,102,102,1);
+box-shadow: 3px 6px 30px -5px rgba(102,102,102,1);
 }
 .useful ul { margin-bottom: 30px; }
+.useful li { margin-bottom: 6px; }
+.useful header { 
+	margin: 20px;
+	background-color: #ddd;
+	 }
 footer { background-color: #000;
 	position: sticky;
 	height:300px;
@@ -105,3 +119,8 @@ footer .icon {
  	width: 80px;
  	padding: 20px;
  	 }
+
+@media(max-width: 768px){
+	section article { width: 90%; }
+	.useful { width: 90%; }
+}
