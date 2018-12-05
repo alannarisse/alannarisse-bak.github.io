@@ -1,3 +1,8 @@
+---
+permalink: /index.html
+---
+
+
 # alannarisse.github.io
 my github page
 
