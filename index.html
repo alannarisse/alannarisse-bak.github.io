@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Alanna Risse's Github Page</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700|Poppins:400,500" rel="stylesheet">
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -10,14 +11,40 @@
 </head>
 <body>
 
-	<section>
+	<nav>
+		<a name="home"></a><a href="#home" id="js-home">home</a>
+		<a href="#links">links</a>
+		<a href="#sheets">cheat sheets</a>
+		<a href="#samples" id="js-samples">sample code</a>
+	</nav>
+
+	<section class="home">
 		<article>
 			<h1>Alanna Risse</h1>
 			<p>Hello! I teach web development and design. This site is chock for of useful links for my design and development students.</p>
 			<p>Here are some quick YouTube Videos on <a href="https://www.youtube.com/playlist?list=PLBWwcoNITxG_3bF8kFCJ1luA2-CnJniAf">git and Github</a></p>
+			<!-- <div class="grid-4">
+			<div>
+				<a href="#"><img src="images/thumbs/whale_pnca.png"></a>
+			</div>
+			<div>
+				<a href="#"><img src="images/thumbs/whale_pnca.png"></a>
+			</div>
+			<div>
+				<a href="#"><img src="images/thumbs/whale_pnca.png"></a>
+			</div>
+			<div>
+				<a href="#"><img src="images/thumbs/whale_pnca.png"></a>
+			</div>
+		</div> -->
+		<div class="downArrow bounce">
+		  <img width="40" height="40" alt="" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMyIDMyIiBoZWlnaHQ9IjMycHgiIGlkPSLQodC70L7QuV8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxwYXRoIGQ9Ik0yNC4yODUsMTEuMjg0TDE2LDE5LjU3MWwtOC4yODUtOC4yODhjLTAuMzk1LTAuMzk1LTEuMDM0LTAuMzk1LTEuNDI5LDAgIGMtMC4zOTQsMC4zOTUtMC4zOTQsMS4wMzUsMCwxLjQzbDguOTk5LDkuMDAybDAsMGwwLDBjMC4zOTQsMC4zOTUsMS4wMzQsMC4zOTUsMS40MjgsMGw4Ljk5OS05LjAwMiAgYzAuMzk0LTAuMzk1LDAuMzk0LTEuMDM2LDAtMS40MzFDMjUuMzE5LDEwLjg4OSwyNC42NzksMTAuODg5LDI0LjI4NSwxMS4yODR6IiBmaWxsPSIjMTIxMzEzIiBpZD0iRXhwYW5kX01vcmUiLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48L3N2Zz4=" />
+		</div>
 		</article>
+
 	</section>
-	<section>
+	<section class="links">
+		<div class="anchor"><a id="js-links" name="links"></a></div>
 		<article>
 			<h1>Useful Links</h1>
 			<div class="collapsable">
@@ -36,15 +63,16 @@
 				<div class="grid-2">
 					<ul class="link-cols">
 						<li><a href="useful/htmlandcss.html">HTML and CSS</a></li>
-						<li><a href="">CSS Animations</a></li>
-						<li><a href="">SVG</a></li>
-						<li><a href="">JQuery</a></li>
+						<!-- <li><a href="">CSS Animations</a></li>
+						<li><a href="">SVG</a></li> -->
+						<li><a href="useful/jquery.html">JQuery</a></li>
 					</ul>
 					<ul class="link-cols">
 						<li><a href="useful/javascript.html">Javascript</a></li>
-						<li><a href="">Javascript Basic Code</a></li>
-						<li><a href="">APIs</a></li>
-						<li><a href="">React</a></li>
+						<li><a href="useful/javascript.html">Javascript Basic Code</a></li>
+						<li><a href="useful/apis.html">APIs</a></li>
+						<li><a href="useful/react.html">React</a></li>
+						<li><a href="useful/node.html">Node</a></li>
 					</ul>
 				</div>
 				<h2>Server-Side</h2>
@@ -70,10 +98,10 @@
 				</div>
 			</div>
 		</article>
-
+	<a id="back2Top" title="Back to top" href="#">&#10148;</a>
 	</section>
-	<section>
-
+	<section class="sheets">
+	<div class="anchor"><a id="js-sheets" name="sheets"></a></div>
 		<article>
 			<h1>Cheat Sheets</h1>
 			<ul class="link-cols">
@@ -82,17 +110,18 @@
 			</ul>
 
 		</article>
-
+	<a id="back2Top" title="Back to top" href="#">&#10148;</a>
 	</section>
-	<section class="last">
-
+	<section class="last samples">
+		<div class="anchor"><a name="samples"></a></div>
 		<article>
 			<h1>Code Samples</h1>
 			<p>I'll be adding code samples here someday.</p>
 			<p>I love code</p>
 		</article>
-
+	<a id="back2Top" title="Back to top" href="#">&#10148;</a>
 	</section>
+
 	<footer><a href="https://linkedin.com/in/alanna-risse-portland/" target="_blank"><img class="icon" src="images/linkedin.png"></a>
 		<a href="https://github.com/alannarisse" target="_blank"><img class="icon" src="images/github.png"></a>
 	</footer>
