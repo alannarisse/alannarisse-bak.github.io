@@ -9,6 +9,9 @@
 	$('#js-samples').click(function() {
 		$('.samples').css('z-index', '2');
 	
+	$('#js-sheets').click(function() {
+		$('.sheets').css('z-index', '2');
+
 	$('#js-home').click(function() {
 		$('.home').css('z-index', '1');
 		$('.samples').css('z-index', '1');
