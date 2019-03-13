@@ -51,8 +51,15 @@ nav a {
 nav a:hover {
  color: #ff9900;
 }
-.home {margin-top: 60px;}
-.home article {max-width:600px;}
+.home {margin-top: 40px;}
+/*.home article {max-width:600px;}
+*/
+.home article {
+  display: grid; 
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1em;
+}
+.downArrow { grid-column: 1 / -1; }
 section {
     height: 150vh;
     width: 100vw;
@@ -94,6 +101,7 @@ section:nth-child(even) article h1, section:nth-child(even) article h2, section:
 	color: white;
 }
 
+.me-pic {width:100%;}
 .collapsable div {
 	margin-bottom: 40px;
 }
@@ -230,4 +238,5 @@ footer .icon {
 @media(max-width: 768px){
 	section article { width: 90%; }
 	.useful main { width: 90%; }
+  .home article { display: block; }
 }
