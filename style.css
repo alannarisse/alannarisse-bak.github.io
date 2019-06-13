@@ -73,6 +73,10 @@ section {
     background-size: cover;
     background-repeat: no-repeat;
 }
+section.links  {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 section.last {height: 130vh;}
 
 section.last article {
@@ -81,14 +85,14 @@ section.last article {
 section:nth-child(1) {
     background-image: url('images/fresh_snow.png');
 }
-section:nth-child(2) {
+section:nth-child(3) {
     background-image: url('images/grey_wash_wall.png');
 }
-section:nth-child(3) {
+section:nth-child(4) {
     background-image: url('images/subtle_white_feathers.png');
     background-repeat: repeat-y;
 }
-section:nth-child(4) {
+section:nth-child(5) {
     background-image: url('images/mochaGrunge.png');
 }
 section article {
@@ -98,13 +102,13 @@ section article {
 }
 
 section:nth-child(even) article h1, section:nth-child(even) article h2, section:nth-child(even) article p, section:nth-child(even) article a, section:nth-child(even) article div, section:nth-child(even) article p {
-	color: white;
+	color: #333;
 }
 
+section div {margin-bottom: 40px;}
+
 .me-pic {width:100%;}
-.collapsable div {
-	margin-bottom: 40px;
-}
+
 
 .collapsable li:before {
 	content: '> ';
@@ -124,6 +128,11 @@ section:nth-child(even) article h1, section:nth-child(even) article h2, section:
 	margin-bottom: none;
 }
 
+footer p {
+  max-width: 600px;
+  margin:auto;
+  color: #fff;
+}
 .useful {	
 	background-image: url('images/cheap_diagonal_fabric.png');
 }
