@@ -9,3 +9,6 @@ my github page
 
 ## About this repo
 This repo is a collection of snippets, links and mini projects that I find useful to my teaching. It's sort of a scribbly note style mess.
+
+
+## there are also pictures of my dog.
