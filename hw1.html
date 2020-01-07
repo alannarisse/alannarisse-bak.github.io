@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+.text {
+	display: none;
+}
+.show {
+	display: block;
+}
+	</style>
+</head>
+<body>
+<a href="#" class="btn">Click me</a>
+<p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere omnis suscipit tempore repellendus. Quisquam neque est optio atque eaque recusandae!</p>
+
+<div class="add-stuff"></div>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+
+<script>
+	$('.btn').click(function(){
+		$('.text').toggleClass('show');
+		$('.add-stuff').append('<h1>Some stuff!</h1>');
+	})
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
