@@ -1,0 +1,40 @@
+/*
+font-family: 'Grenze', serif;
+font-family: 'Kodchasan', sans-serif;
+*/
+
+body {
+  font-family: 'Kodchasan', sans-serif;
+}
+
+h1 {
+  font-family: 'Grenze', serif;
+}
+
+p {
+
+}
+
+.grid-demo {
+
+}
+
+p {
+  margin:0;
+}
+.grid-demo section {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-demo div {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.grid-demo .feature {
+  grid-column: 2/4;
+  grid-row: 1/3;
+  font-weight: 700;
+}
