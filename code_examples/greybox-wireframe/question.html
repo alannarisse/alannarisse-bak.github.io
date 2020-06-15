@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+
+	<form>
+                <fieldset>
+                <legend>
+                    <h3 class="questionHeadline">${questionsAnswers[questionNumber].question}</h3><br>
+                </legend>
+                <label for="answerOne" class="radio-land">
+                    <input type="radio" id="answerOne" value="${questionsAnswers[questionNumber].answerOptions[0]}" name="answer" required>
+                    <span class="circle"></span>
+                    <span>${questionsAnswers[questionNumber].answerOptions[0]}</span>
+                </label>
+                <label for="answerTwo" class="radio-land">
+                    <input type="radio" id="answerTwo" value="${questionsAnswers[questionNumber].answerOptions[1]}" name="answer" required>
+                    <span class="circle"></span>
+                    <span>${questionsAnswers[questionNumber].answerOptions[1]}</span>
+                </label>
+                <label for="answerThree" class="radio-land">
+                    <input type="radio" id="answerThree" value="${questionsAnswers[questionNumber].answerOptions[2]}" name="answer" required>
+                    <span class="circle"></span>
+                    <span></span>
+                </label>
+                <label for="answerFour" class="radio-land">
+                    <input type="radio" id="answerFour" value="${questionsAnswers[questionNumber].answerOptions[3]}" name="answer" required>
+                    <span class="circle"></span>
+                    <span>${questionsAnswers[questionNumber].answerOptions[3]}</span>
+                </label>
+                <button role="button" class="submitButton">SUBMIT</button>
+            </fieldset>
+            </form>
+</body>
+</html>
