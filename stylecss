@@ -42,9 +42,6 @@ body {
   margin: 0;
 }
 
-/* SCSS HSL */
-/* SCSS RGB */
-/* SCSS Gradient */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
@@ -150,22 +147,17 @@ section:nth-child(1) {
   background-image: url("images/fresh_snow.png");
 }
 
-section:nth-child(2) {
-  background-image: url("images/joanna-kosinska-78uNJt1kPw8-unsplash.jpg");
+section:nth-child(3) {
+  background-image: url("images/grey_wash_wall.png");
+}
+
+section:nth-child(4) {
+  background-image: url("images/subtle_white_feathers.png");
+  background-repeat: repeat-y;
 }
 
 section:nth-child(5) {
-  background-image: url("images/samuel-scrimshaw-ebbFZvavGy4-unsplash.jpg");
-}
-
-/* <span>Photo by <a href="https://unsplash.com/@samscrim?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Samuel Scrimshaw</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
-section:nth-child(4) {
-  background-image: url("images/sharon-mccutcheon-62vi3TG5EDg-unsplash.jpg");
-}
-
-/* <span>Photo by <a href="https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sharon McCutcheon</a> on <a href="https://unsplash.com/s/photos/background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> */
-section:nth-child(6) {
-  background-image: url("images/autumn-studio-221wufG10eg-unsplash.jpg");
+  background-image: url("images/mochaGrunge.png");
 }
 
 section article {
@@ -214,10 +206,6 @@ footer p {
   max-width: 600px;
   margin: auto;
   color: #fff;
-}
-
-footer a {
-  color: white;
 }
 
 .useful {
@@ -356,4 +344,4 @@ footer .icon {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=stylecss.map */
