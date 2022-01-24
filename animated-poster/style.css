@@ -72,6 +72,21 @@ main {
   fill: #15283a;
 }
 
+.spin {
+  animation-name: spin-me;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  transform-origin: 90% 90%;
+}
+@keyframes spin-me {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+
 #sub .cls-2 {
   fill: #fff;
   animation-name: color-range;
