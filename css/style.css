@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Chunk Five Print";
+  src: url("../fonts/Chunk-Five-Print.otf") format("opentype");
+}
+@font-face {
+  font-family: "Chunk Five";
+  src: url("../fonts/ChunkFive-Regular.otf") format("opentype");
+}
+/* -------------------------------------- *
+General Styles
+* --------------------------------------- */
+body {
+  margin: 0;
+  font-family: gloria-hallelujah, sans-serif;
+  font-size: 20px;
+}
+
+h1,
+h2,
+h3 {
+  font-size: 36px;
+  font-family: "Chunk Five Print", Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 48px;
+}
+main,
+header h1,
+nav div {
+  width: 85%;
+  margin: auto;
+}
+header {
+  padding: 40px 0;
+}
+nav a {
+  padding-right: 20px;
+}
+nav a:hover {
+  color: #333;
+}
+nav {
+  background-color: #ccc;
+  padding: 12px;
+}
