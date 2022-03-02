@@ -1,0 +1,54 @@
+svg {
+  overflow: visible;
+}
+
+.spinning-flower {
+  width: 400px;
+  margin: auto;
+  margin-top: 300px;
+}
+.spinning-flower .flower {
+  transform: rotate(0deg);
+  animation-name: spin-me;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  transform-origin: center center;
+}
+@keyframes spin-me {
+  0% {
+    transform: rotate(0deg) scale(1);
+  }
+  100% {
+    transform: rotate(359deg) scale(1.5);
+  }
+}
+
+.flower {
+  fill: #148aed;
+}
+
+.stamen {
+  fill: #e8ffad;
+}
+
+.spinning-flower .stamen {
+  animation-name: bigger;
+  animation-duration: 400ms;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  animation-delay: 3s;
+  transform-origin: center center;
+}
+@keyframes bigger {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(0.7);
+  }
+}
